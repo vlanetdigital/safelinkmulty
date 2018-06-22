@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*11)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/06/best-mt4-advantage-and-earning-through.html"}
+
 if(x=="2"){xxx="/2018/06/forex-demo-account-forex-basics.html"}
 if(x=="3"){xxx="/2018/06/the-mt4-expert-advisor-taking-fx-world.html"}
 if(x=="4"){xxx="/2018/06/locating-forex-broker-online-find-best.html"}
