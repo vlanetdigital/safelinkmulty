@@ -21,23 +21,17 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*16)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/forex-demo-account-forex-basics/"}
-if(x=="2"){xxx="/locating-a-forex-broker-online-find-the-best-broker-for-your-situation/"}
-if(x=="3"){xxx="/recommended-forex-brokers-3-reasons-to-make-the-switch-to-loyal-forex-today/"}
-if(x=="4"){xxx="/new-automated-forex-software-key-buying-features-for-forex-traders/"}
-if(x=="5"){xxx="/forex-robot-software-one-step-up/"}
-if(x=="6"){xxx="/forex-money-manager-have-you-considered-this-option/"}
-if(x=="7"){xxx="/make-money-online/"}
-if(x=="8"){xxx="/computer-software-and-hardware/"}
-if(x=="9"){xxx="/fiber-optic-cable/"}
-if(x=="10"){xxx="/crusher-stune/"}
-if(x=="11"){xxx="/basics-of-pcb-design/"}
-if(x=="12"){xxx="/object-3d-printing/"}
-if(x=="13"){xxx="/materials-3d/"}
-if(x=="14"){xxx="/machine-printing-3d/"}
-if(x=="15"){xxx="/how-printing-3d/"}
-if(x=="16"){xxx="/metal-materials-printing/"}
-a_to_ve[i].href="https://www.businessinfo.site"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+ifx=="1"{xxx="/2018/06/best-mt4-advantage-and-earning-through.html"}
+ifx=="2"{xxx="/2018/06/forex-demo-account-forex-basics.html"}
+ifx=="3"{xxx="/2018/06/the-mt4-expert-advisor-taking-fx-world.html"}
+ifx=="4"{xxx="/2018/06/locating-forex-broker-online-find-best.html"}
+ifx=="5"{xxx="/2018/06/recommended-forex-brokers-3-reasons-to.html"}
+ifx=="6"{xxx="/2018/06/new-automated-forex-software-key-buying.html"}
+ifx=="7"{xxx="/2018/06/forex-money-manager-have-you-considered.html"}
+ifx=="8"{xxx="/2018/04/how-to-use-paypal-dollar_24.html"}
+ifx=="9"{xxx="/2018/04/make-money-online_21.html"}
+ifx=="10"{xxx="/2018/04/computer-software-and-hardware_8.html"}
+a_to_ve[i].href="http://www.infobrokerforex.review"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
